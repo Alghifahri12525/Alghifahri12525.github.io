@@ -1,0 +1,16 @@
+nav, footer {
+    background-color: aquamarine;
+}
+
+section {
+    padding-top:7px ;
+}
+
+footer {
+    padding: 5px;
+}
+
+.jumbotron, #contact {
+    padding: 2rem 1rem;
+    background-color: #c3d7f7;
+}
